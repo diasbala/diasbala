@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @diasbala
-- 👀 I’m interested in software development and ethical hacking.
-- 🌱 I’m currently learning kali linux, wireless hacking, python.
+- 👀 I’m interested in front end development.
+- 🌱 I’m currently learning JavaScript, HTML, HTML Responsive, CSS.
 - 💞️ I’m looking to collaborate on a project or some company in an interniship program.
 - 📫 How to reach me mastronelli88@gmail.com
 
